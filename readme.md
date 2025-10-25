@@ -1,10 +1,5 @@
 🧠 AI Wiki Quiz Generator
-<div align="center">
-![Python](https://img.shields.io.shields.io/badge/FastAPI-0.104://img.shields.io/badge/React-18.2./badge/License-MIT-yellow articles into engaging educational quizzes using AI**
 
-Features - Demo - Installation - Usage - API - Contributing
-
-</div>
 📋 Table of Contents
 Overview
 
@@ -385,62 +380,3 @@ DATABASE_URL - Production database URL
 GEMINI_API_KEY - Your Gemini API key
 
 Update CORS origins in main.py to include production URLs
-
-🤝 Contributing
-Contributions are welcome! Please follow these steps:
-
-Fork the repository
-
-Create a feature branch (git checkout -b feature/AmazingFeature)
-
-Commit your changes (git commit -m 'Add some AmazingFeature')
-
-Push to the branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-Development Guidelines
-Follow PEP 8 for Python code
-
-Use ESLint/Prettier for JavaScript/React code
-
-Write descriptive commit messages
-
-Add tests for new features
-
-Update documentation as needed
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-👤 Author
-Your Name
-
-GitHub: @yourusername
-
-LinkedIn: Your Profile
-
-Email: your.email@example.com
-
-🙏 Acknowledgments
-Google Gemini - For providing the AI capabilities
-
-FastAPI - For the excellent Python web framework
-
-React - For the powerful frontend library
-
-Tailwind CSS - For beautiful, responsive styling
-
-Wikipedia - For the vast knowledge base
-
-LangChain - For LLM orchestration tools
-
-📊 Project Stats
-![GitHub stars](https://img.shields.io/github/stars/yourusernameio/github/forks/yourusername/ai-quiz-generator/github/issues/yourusername
-
-Made with ❤️ for education
-
-⭐ Star this repo if you find it helpful!
-
-</div>
-This comprehensive README includes all essential sections for a professional open-source project, following industry best practices for documentation!
