@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://wiki-quiz.onrender.com/'
+const API_BASE_URL = 'https://wiki-quiz.onrender.com'
 
 /**
  * Generate a quiz from Wikipedia URL
