@@ -29,6 +29,8 @@ origins = [
     "http://localhost:5173",  # Vite default port
     "http://127.0.0.1:3000",
     "http://127.0.0.1:5173",
+    "https://*.vercel.app",  # Allow all Vercel deployments
+    "*" 
 ]
 
 app.add_middleware(
