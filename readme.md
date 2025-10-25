@@ -380,3 +380,6 @@ DATABASE_URL - Production database URL
 GEMINI_API_KEY - Your Gemini API key
 
 Update CORS origins in main.py to include production URLs
+
+#Demo Link
+https://wiki-quiz-jwl0pwmik-rahulprasanna012s-projects.vercel.app/
