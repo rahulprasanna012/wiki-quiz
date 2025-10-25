@@ -1,25 +1,28 @@
-# FastAPI and Server
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
-python-multipart==0.0.6
+# Core Framework (pre-built wheels)
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+python-multipart==0.0.9
 
-# Database (SQLite - easiest)
-sqlalchemy==2.0.23
+# Database
+sqlalchemy==2.0.35
+pymysql==1.1.1
 
 # Web Scraping
-beautifulsoup4==4.12.2
-requests==2.31.0
+beautifulsoup4==4.12.3
+requests==2.32.3
+lxml==5.3.0
 
-# LangChain and AI (older versions with pre-built wheels)
-langchain-core==0.1.10
-langchain-community==0.0.13
-langchain-google-genai==0.0.6
-google-generativeai==0.3.1
+# AI/LangChain (compatible versions with pre-built wheels)
+langchain==0.3.0
+langchain-core==0.3.0
+langchain-google-genai==2.0.0
+google-generativeai==0.8.0
 
-# Data Validation (older version - no Rust needed)
-pydantic==2.4.2
-pydantic-settings==2.0.3
+# Validation (pre-built wheels - NO RUST NEEDED)
+pydantic==2.9.2
+pydantic-settings==2.5.2
 
-# Environment Variables
-python-dotenv==1.0.0
-pymysql
+# Utils
+python-dotenv==1.0.1
+typing-extensions==4.12.2
+annotated-types==0.7.0
